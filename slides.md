@@ -38,12 +38,13 @@ layout: two-cols
 
 * about me
 * motivation
+* roadmap 
 * definition
 * compare to other tech
 * shines as diamonds
 * tools
 * challenges
-
+* next steps
 
 </v-clicks>
 
@@ -107,10 +108,22 @@ one ago we been in audience  <br>
 and now we speakers <br>
 if you didn't see some of our presentation I recommend that <br>
 FRONTEND GUY <br>
-The only place where success comes before work is in the dictionary. <br>
-I am last of the group and please I <br> 
-Ruslan Korniichuk his is inspiration for US <br> --->
+The only place where success comes before work is in the dictionary. <br> 
+Ruslan Korniichuk his is inspiration for US <br>
+MY motivation is to learn every day and inspire people.
+ --->
 
+
+---
+layoyt: center
+---
+
+# Roadmap for GraphQL
+https://roadmap.sh/graphql
+
+<!-- 
+You need to check this out roadmap for diffrent technologies, 
+they not perfect but sooo prettty -->
 ---
 layout: two-cols
 ---
@@ -306,7 +319,9 @@ layout: two-cols
 
 </v-clicks>
 
-<!--  
+<!--
+* Clients might receive more data than they need (over-fetching) or 
+* might need to make multiple requests to fetch all required data (under-fetching)  
 *  shine If you need integrate with server to serrver
 *   if don't need something You need to delete from client side
 *   otherwise backend need to do some staff, fight for fronteds
@@ -377,6 +392,11 @@ Strawberry vs Graphane vs Ariadne
 https://github.com/strawberry-graphql
 
 </v-clicks>
+<!-- 
+for me it's like graphane is like flask 
+strawberyy in other hand is fastapi
+  -->
+
 
 ---
 layout: two-cols
@@ -469,6 +489,22 @@ layout: two-cols
 Over-fetching is fetching too much data, meaning there is data in the response you don't use. <br>
 
 Under-fetching is not having enough data with a call to an endpoint, forcing you to call a second endpoint. -->
+---
+layout: two-cols 
+---
+
+# next steps 
+
+<v-clicks>
+
+* go to gitub API explorer https://docs.github.com/en/graphql/overview/explorer
+* check roadmap https://roadmap.sh/graphql
+* check presentation & like repository on my github https://github.com/KuligKamil/GraphQL-101-PyCon2023PL
+* write your opinion or suggestion about presentation
+  
+</v-clicks>
+
+<!-- TRY IT Smell It, Lick It, Taste It, Kiss It, Touch It DO IT -->
 
 ---
 layout: two-cols
@@ -478,9 +514,7 @@ layout: two-cols
 
 <v-clicks>
 
-Will be on repository today
-
-
+https://github.com/KuligKamil/GraphQL-101-PyCon2023PL
 
 </v-clicks>
 
